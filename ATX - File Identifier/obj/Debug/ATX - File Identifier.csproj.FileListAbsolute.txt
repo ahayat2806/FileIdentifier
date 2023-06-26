@@ -1,0 +1,14 @@
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\bin\Debug\ATX - File Identifier.exe.config
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\bin\Debug\ATX - File Identifier.exe
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\bin\Debug\ATX - File Identifier.pdb
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\bin\Debug\Bunifu.Core.dll
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\obj\Debug\ATX - File Identifier.csprojAssemblyReference.cache
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\obj\Debug\ATX___File_Identifier.Form1.resources
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\obj\Debug\ATX - File Identifier.csproj.GenerateResource.cache
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\obj\Debug\ATX - File Identifier.csproj.CoreCompileInputs.cache
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\obj\Debug\ATX - File Identifier.csproj.CopyComplete
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\obj\Debug\ATX - File Identifier.exe
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\obj\Debug\ATX - File Identifier.pdb
+E:\Coding\ATX - File Identifier\ATX - File Identifier\ATX - File Identifier\obj\Debug\FileID.Properties.Resources.resources
